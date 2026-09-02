@@ -3,5 +3,5 @@ Traditional waste collection usually follows fixed schedules, so trucks may visi
 trips, higher fuel consumption, and inefficient waste management. The
 project aims to develop a real-time system that monitors bin fill levels and
 helps determine when and where waste collection is required.
-
+I have gathered data set for this project and next I cleaned the data to my requirement 
 
